@@ -104,3 +104,19 @@ float dither8x8(vec2 position, float brightness) {
   return brightness < limit ? .5 : 1.5;
 }
 ```
+
+### Herramientas y referencias
+
+**Herramientas**
+
+-[ezgif](https://ezgif.com/): Creacion de gif faciles
+
+**Referencias**
+
+[Guia de la practica 11](https://github.com/otsedom/otsedom.github.io/tree/main/CIU/P11)
+
+[Guia OpenGl](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf)
+
+[Editor TBOS](http://editor.thebookofshaders.com/)
+
+[Codigos Gene Kogan](https://github.com/odditica/ProcessingStuff)
